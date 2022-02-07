@@ -1,0 +1,37 @@
+.showData {
+  display: flex;
+  flex-direction: column;
+}
+
+.showData__container {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  padding: 12px;
+  border-bottom: 1px solid #cfcfcf;
+}
+
+.showData__container:hover {
+  cursor: pointer;
+  background-color: #efefef;
+}
+
+.showData__data {
+  min-width: 33%;
+  max-width: 33%;
+}
+
+.showData__name {
+  min-width: 33%;
+  max-width: 33%;
+}
+
+.showData__mobile {
+  display: flex;
+  justify-content: center;
+}
+
+.showData__email {
+  display: flex;
+  justify-content: flex-end;
+}

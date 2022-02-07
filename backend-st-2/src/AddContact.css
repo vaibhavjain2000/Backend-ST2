@@ -1,0 +1,9 @@
+.addContact {
+  display: flex;
+  flex-direction: column;
+  width: 70%;
+  margin: auto;
+  align-items: center;
+  height: 100vh;
+  justify-content: center;
+}

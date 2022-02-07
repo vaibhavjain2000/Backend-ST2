@@ -1,0 +1,22 @@
+.button {
+  padding: 12px;
+  color: white;
+  border-radius: 6px;
+  width: 150px;
+  min-height: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: linear-gradient(25deg, #2bd1e8, #57c5e8, #c391e6, #fc5be1);
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.button:hover {
+  cursor: pointer;
+}
+
+.button .css-i4bv87-MuiSvgIcon-root {
+  font-size: 28px;
+  margin-right: 8px;
+}
